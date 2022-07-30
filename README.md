@@ -1,7 +1,7 @@
 # Info-Grabber
 # Feature
 
--Added System To Get Ip Public And Ip Local /
+Added System To Get Ip Public And Ip Local /
 Added "How To Get Any Source Code By Html" /
 Added New GUI /
 Added Config View And Computer Name /
